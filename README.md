@@ -1,1 +1,1 @@
-Redirect to [https://umd-cats.github.io/](https://umd-cats.github.io/).
+Redirect to [https://cats.cs.umd.edu/](https://cats.cs.umd.edu/).
